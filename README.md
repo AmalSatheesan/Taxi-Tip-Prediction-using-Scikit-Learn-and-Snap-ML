@@ -21,7 +21,7 @@ The dataset used in this project includes information about taxi trips and tip a
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AmalSatheesan/Taxi-Tip-Prediction-using-Scikit-Learn-and-Snap-ML.git
 
 2. Navigate to the project directory:
    ```bash
